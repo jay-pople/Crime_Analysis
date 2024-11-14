@@ -20,5 +20,3 @@ Q6.show year wise case status, wheather pending or close?
 Q7. which weapon is widly used for different crime category? 
 
 
-
-"# Crime_Analysis" 
