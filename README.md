@@ -30,7 +30,6 @@ Q7. which weapon is widly used for different crime category?
 1. Import the data : Import the us_crime_dataset.xlsx into power BI
    
 2. Data Transformation :
-   
   a)Handling Missing and Null Values:
   Identified missing values in critical columns, including incident details, demographics, and location information.
   For fields with essential missing data, used imputation methods when feasible; otherwise, omitted entries with incomplete records.
