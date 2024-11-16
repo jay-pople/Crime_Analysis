@@ -10,20 +10,21 @@ Crime_Analysis.pbix
 Power BI Desktop
 crime dataset (included in repository)
 
-## Questions:
-Q1.By what percentage has the crime rate increased or decreased in different cities over the past five years?
+## Analysis Conducted (Questions):
 
-Q2.Which crime is happend most serious or less serious?also show the crime the crime catagory of eac
+1.By what percentage has the crime rate increased or decreased in different cities over the past five years?
 
-Q3.At what time crime is happend most day or night ? also show for each city.
+2.Which crime is happend most serious or less serious?also show the crime the crime catagory of eac
 
-Q4. In which area most of crime happed? as per seriousness or crime catgory.
+3.At what time crime is happend most day or night ? also show for each city.
 
-Q5.Is there any pattern of crime in year, eg. increases in certain period and decreases in certain period? for different crime category.
+4. In which area most of crime happed? as per seriousness or crime catgory.
 
-Q6.show year wise case status, wheather pending or close?
+5.Is there any pattern of crime in year, eg. increases in certain period and decreases in certain period? for different crime category.
 
-Q7. which weapon is widly used for different crime category? 
+6.show year wise case status, wheather pending or close?
+
+7. which weapon is widly used for different crime category? 
 
 ## Data Preparation: 
 
