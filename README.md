@@ -25,5 +25,28 @@ Q6.show year wise case status, wheather pending or close?
 
 Q7. which weapon is widly used for different crime category? 
 
+## Data Preparation: 
+
+1. Import the data : Import the us_crime_dataset.xlsx into power BI
+   
+2. Data Transformation :
+   
+  a)Handling Missing and Null Values:
+  Identified missing values in critical columns, including incident details, demographics, and location information.
+  For fields with essential missing data, used imputation methods when feasible; otherwise, omitted entries with incomplete records.
+
+  b)Standardizing Data Formats:
+  Converted dates to a standardized date-time format for accurate time-based analysis.
+  Ensured categorical fields, like crime categories, locations, and case statuses, followed consistent naming conventions for easier grouping and analysis.
+
+  c)Categorical Consistency:
+  Merged similar or redundant categories, aligning alternate labels (e.g., different names for similar crimes or locations) into a unified format.
+  Ensured weapon descriptions and crime types were standardized to prevent duplication and inconsistencies.
+  Outlier Analysis and Correction:
+
+  d)Time-Based Classification:
+  Added columns to classify incidents by time of day (e.g., day/night) based on time stamps, which supports time-specific crime analysis.
+
+## Conclusion: 
 
 
