@@ -1,4 +1,4 @@
-#Overview:
+## Overview:
 This project provides an in-depth analysis of U.S. crime trends from 2020 to 2024, aiming to offer valuable insights to law enforcement agencies, policymakers, researchers, and the general public.
 By examining crime patterns across different cities, demographics, and case statuses, the project seeks to support data-driven decisions that enhance public safety and crime prevention strategies.
 
