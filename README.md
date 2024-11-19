@@ -3,8 +3,9 @@ This project provides an in-depth analysis of U.S. crime trends from 2020 to 202
 By examining crime patterns across different cities, demographics, and case statuses, the project seeks to support data-driven decisions that enhance public safety and crime prevention strategies.
 
 ## Files:
-us_crime_dataset.xlsx
-Crime_Analysis.pbix
+1.us_crime_dataset.xlsx
+
+2.Crime_Analysis.pbix
 
 ## Requirements:
 Power BI Desktop
@@ -24,7 +25,16 @@ crime dataset (included in repository)
 
 6.show year wise case status, wheather pending or close?
 
-7. which weapon is widly used for different crime category? 
+7. which weapon is widly used for different crime category?
+
+
+## Snapshot:
+![image](https://github.com/user-attachments/assets/6a4ccdf0-4897-4fcc-ad01-f54af79201e3)
+![image](https://github.com/user-attachments/assets/c407a20f-7226-43c4-8df9-709f98a3fb52)
+![image](https://github.com/user-attachments/assets/2a7b3742-72a9-48ab-9dea-793e7af902d1)
+
+
+
 
 ## Data Preparation: 
 
