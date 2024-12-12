@@ -5,7 +5,11 @@ By examining crime patterns across different cities, demographics, and case stat
 ---
 
 ## Files:
-- **[Crime Dataset.csv](https://drive.google.com/file/d/1S9rWsjTjEpK8K5BFx7JnAKnDzHqgbjvh/view?usp=drive_link)**  
+## Crime Dataset
+This dataset contains detailed information on U.S. crime data from 2020 to 2024, used in the analysis presented in this repository. You can download it [here](https://drive.google.com/file/d/1S9rWsjTjEpK8K5BFx7JnAKnDzHqgbjvh/view?usp=drive_link).
+
+**Note:** The file is hosted on Google Drive due to its size.
+
 - **Crime_Analysis.pbix**
 
 ---
